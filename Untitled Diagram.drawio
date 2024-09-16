@@ -234,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-3" value="Orders" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBackgroundColor=none;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
-          <mxGeometry x="425" width="250" height="160" as="geometry">
+          <mxGeometry x="520" width="250" height="140" as="geometry">
             <mxRectangle x="450" y="120" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -251,34 +251,21 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CfcRk36_hwaHJWHFUMBA-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-3">
-          <mxGeometry y="60" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CfcRk36_hwaHJWHFUMBA-8" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-7">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CfcRk36_hwaHJWHFUMBA-9" value="order_id int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-7">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-3">
-          <mxGeometry y="90" width="250" height="30" as="geometry" />
+          <mxGeometry y="60" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-11" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-10">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+          <mxGeometry width="30" height="40" as="geometry">
+            <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CfcRk36_hwaHJWHFUMBA-12" value="order_type varchar(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-10">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
+        <mxCell id="CfcRk36_hwaHJWHFUMBA-12" value="Order_type varchar(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-10">
+          <mxGeometry x="30" width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-3">
-          <mxGeometry y="120" width="250" height="30" as="geometry" />
+          <mxGeometry y="100" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-14" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-13">
           <mxGeometry width="30" height="30" as="geometry">
@@ -294,7 +281,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfcRk36_hwaHJWHFUMBA-26" value="Geography" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBackgroundColor=none;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
-          <mxGeometry x="50" y="20" width="250" height="260" as="geometry">
+          <mxGeometry x="60" y="10" width="250" height="260" as="geometry">
             <mxRectangle x="120" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -552,7 +539,7 @@
         <mxCell id="GXQcaFGIUFK4CKgzjGYN-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="XKGTw56UXh3__JGdbOuR-71">
           <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GXQcaFGIUFK4CKgzjGYN-13" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="GXQcaFGIUFK4CKgzjGYN-12">
+        <mxCell id="GXQcaFGIUFK4CKgzjGYN-13" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;labelBackgroundColor=none;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="GXQcaFGIUFK4CKgzjGYN-12">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -575,7 +562,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKGTw56UXh3__JGdbOuR-84" value="Snapshot" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBackgroundColor=none;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
+        <mxCell id="XKGTw56UXh3__JGdbOuR-84" value="Sales" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBackgroundColor=none;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
           <mxGeometry x="350" y="290" width="250" height="220" as="geometry">
             <mxRectangle x="450" y="120" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -696,7 +683,7 @@
         <mxCell id="GXQcaFGIUFK4CKgzjGYN-15" value="&lt;b&gt;FUFU REPUBLIC ENTITY RELATIONSHIP DIAGRAM&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
           <mxGeometry x="80" y="-50" width="820" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GXQcaFGIUFK4CKgzjGYN-16" value="&lt;div&gt;&lt;b&gt;Geographic Sales Analysis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. What are the total sales by region?&lt;/div&gt;&lt;div&gt;2. What are the total sales by state?&lt;/div&gt;&lt;div&gt;3. What are the total sales by LGA?&lt;/div&gt;&lt;div&gt;4. What are the total sales by cluster?&lt;/div&gt;&lt;div&gt;5. What are the total sales by site?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;align=left;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
+        <mxCell id="GXQcaFGIUFK4CKgzjGYN-16" value="&lt;div&gt;Geographic Sales Analysis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. What are the total sales by region?&lt;/div&gt;&lt;div&gt;2. What are the total sales by state?&lt;/div&gt;&lt;div&gt;3. What are the total sales by LGA?&lt;/div&gt;&lt;div&gt;4. What are the total sales by cluster?&lt;/div&gt;&lt;div&gt;5. What are the total sales by site?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;align=left;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
           <mxGeometry x="100" y="820" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GXQcaFGIUFK4CKgzjGYN-23" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Time-Based Sales Analysis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. What are the daily total sales?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. What are the weekly total sales?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. What are the monthly total sales?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. What are the quarterly total sales?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;5. What are the yearly total sales?&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;align=left;" vertex="1" parent="CfcRk36_hwaHJWHFUMBA-1">
